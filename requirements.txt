@@ -1,0 +1,15 @@
+# This file mainly consist of the library that mainly needs to be installed before runnig the app.py
+
+Flask
+Flask-Cors
+google-generative-ai
+PyMuPDF
+python-dotenv
+pandas
+openpyxl
+requests
+tabulate
+import numpy as np
+from datetime import datetime, timedelta
+import yfinance as yf
+Flask-Session
