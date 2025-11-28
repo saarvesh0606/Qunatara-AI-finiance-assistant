@@ -1,4 +1,6 @@
 # This file mainly consist of the library that mainly needs to be installed before runnig the app.py
+# TO INSTALL ALL THE DEPENDENCIES PLEASE RUN THE FOLLOWING COMMAND:
+# pip install -r requirements.txt
 
 Flask
 Flask-Cors
